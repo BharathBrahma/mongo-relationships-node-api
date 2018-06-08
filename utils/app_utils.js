@@ -1,6 +1,6 @@
 var APP_CONSTANTS = {
     db_config : {
-        hostname: "mongodb://localhost/brax_trial"
+        hostname: "mongodb://localhost/<<DBNAME>>"
     }
 }
 
